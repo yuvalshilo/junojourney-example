@@ -1,0 +1,6 @@
+manual:
+  issues: 
+  provider: generic  # If not using GitHub 
+
+release:
+  - "*"
